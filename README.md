@@ -26,6 +26,6 @@
 - Caso tenha alguma sugestão, feedback ou uma ideia, também estou aberto a conversar.
 
 ## Como Entrar em Contato
-<a href="www.linkedin.com/in/carlos-pereira-1309/" target="_blank" title="Linkedin Carlos Pereira"><img src="https://img.shields.io/badge/-Carlos Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/carlos-pereira-1309/" alt="Linkedin Carlos Pereira"/></a> [![Gmail Carlos Pereira](https://img.shields.io/badge/-c.henrique1309@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.henrique1309@gmail.com)](mailto:c.henrique1309@gmail.com "Gmail Carlos Pereira")
+<a href="www.linkedin.com/in/carlos-pereira-1309/" target="_blank" title="Linkedin Carlos Pereira"><img src="https://img.shields.io/badge/-Carlos Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/carlos-pereira-1309/" alt="Linkedin Carlos Pereira"/></a> [![Gmail Carlos Pereira](https://img.shields.io/badge/-c.henrique1309@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.henrique1309@gmail.com)](mailto:c.henrique1309@gmail.com "Gmail Carlos Pereira")
 
 ##### Para mais informações acesse meu portfólio clicando [aqui](https://chenrique13.github.io "aqui").
